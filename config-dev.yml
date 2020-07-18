@@ -1,4 +1,4 @@
 config:
-  info: "master branch,spring-cloud-config/config-dev.yml version=5"
+  info: "master branch,spring-cloud-config/config-dev.yml version=6"
 
 age: 20
